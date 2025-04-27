@@ -12,7 +12,7 @@ void setup()
 void loop()
 {
       digitalWrite(Pumppin, HIGH); // Motor Start
-      delay(2000);
+      delay(2000); //2sec
       digitalWrite(Pumppin, LOW); // Motor Stop
-      delay(3000);
+      delay(3000); //3sec
 }
