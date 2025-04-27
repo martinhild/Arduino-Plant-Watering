@@ -1,1 +1,1 @@
-![circuit](https://github.com/martinhild/arduino-plant-watering/blob/master/schematic_plant_watering.png?raw=true)
+![circuit](https://github.com/martinhild/Arduino-Plant-Watering/blob/master/extras/circuit-diagram.png?raw=true)
